@@ -123,7 +123,8 @@ Select SUM(Gaji) AS Total_Gaji
 ```
 
 ## Hasil
-![praktikum](gbr1.png)
+
+![praktikum](gbr1.jpg)
 
 ## Analisis
 - SELECT = Untuk memilih kolom mana saja yang dipilih untuk dijumlahkan. 
